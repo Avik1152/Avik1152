@@ -15,6 +15,11 @@
     </p>
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🕒+Current+TimeZone+/+Location:+(IST)+Kolkata..." />
+   <h3 align="center">⏰ Neural Time Sync</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Avik1152/Avik1152/main/clock.svg" />
+</p>
   <p align="center">
   <img src="https://img.shields.io/badge/📍%20Location-Kolkata,%20India-2f80ed?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🕒%20Timezone-Asia/Kolkata-ff69b4?style=for-the-badge"/>
