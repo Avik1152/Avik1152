@@ -60,7 +60,7 @@
 <p align="center">
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avik1152&theme=react-dark&hide_border=true&area=true" /> -->
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Avik1152/Avik1152/output/github-contribution-grid-snake-dark.svg" />
 </p>
 </p>
 
