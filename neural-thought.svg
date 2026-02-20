@@ -27,12 +27,12 @@
 
   <!-- Title -->
   <text x="30" y="45"
-        font-family="monospace"
-        font-size="22"
-        fill="#00f7ff"
-        filter="url(#glow)">
-    Hi! 👋 I'm Avik
-  </text>
+      font-family="monospace"
+      font-size="22"
+      fill="#e0e0e0"
+      filter="url(#glow)">
+  Hi! 👋 I'm Avik🚀
+</text>
 
   <!-- Quote -->
   <text x="30" y="85"
