@@ -2,12 +2,10 @@
 
 <h2 align="side">   Hi  👋! I'm Avik🚀 <br>⚡ Code. Create. Conquer.
 </h2>
-<h3 align="center">💬 Daily Developer Thought</h3>
+<h3 align="center">🧠 AI Daily Thought</h3>
 
 <p align="center">
-<!--QUOTE_START-->
-          Full Stack is not a skill. It's a mindset.
-          <!--QUOTE_END-->
+  <img src="https://raw.githubusercontent.com/Avik1152/Avik1152/main/dynamic-quote.svg" />
 </p>
 <!-- PROFILE BANNER -->
 
