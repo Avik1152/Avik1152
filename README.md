@@ -5,7 +5,11 @@
 <h3 align="center">🧠 AI Daily Thought</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Avik1152/Avik1152/main/dynamic-quote.svg" />
+  <!-- Dark Mode -->
+  <img src="https://raw.githubusercontent.com/Avik1152/Avik1152/main/dynamic-quote-dark.svg#gh-dark-mode-only" />
+
+  <!-- Light Mode -->
+  <img src="https://raw.githubusercontent.com/Avik1152/Avik1152/main/dynamic-quote-light.svg#gh-light-mode-only" />
 </p>
 <!-- PROFILE BANNER -->
 
