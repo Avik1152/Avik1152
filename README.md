@@ -2,14 +2,10 @@
 
 <h2 align="side">   Hi  👋! I'm Avik🚀 <br>⚡ Code. Create. Conquer.
 </h2>
-<h3 align="center">🧠 AI Daily Thought</h3>
+<h3 align="center">⚡ Neural Thought Stream</h3>
 
 <p align="center">
-  <!-- Dark Mode -->
-  <img src="https://raw.githubusercontent.com/Avik1152/Avik1152/main/dynamic-quote-dark.svg#gh-dark-mode-only" />
-
-  <!-- Light Mode -->
-  <img src="https://raw.githubusercontent.com/Avik1152/Avik1152/main/dynamic-quote-light.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/Avik1152/Avik1152/main/dynamic-quote.svg" />
 </p>
 <!-- PROFILE BANNER -->
 
