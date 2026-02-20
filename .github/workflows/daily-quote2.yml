@@ -1,0 +1,52 @@
+name: Update Daily AI Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Pick random quote
+        id: quote
+        run: |
+          QUOTE=$(jq -r '.[]' quotes.json | shuf -n 1)
+          DAY=$(git rev-list --count HEAD)
+          echo "quote=$QUOTE" >> $GITHUB_OUTPUT
+          echo "day=$DAY" >> $GITHUB_OUTPUT
+
+      - name: Create SVG typing animation
+        run: |
+          cat <<EOF > dynamic-quote.svg
+          <svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+            <style>
+              .title { fill: #00f7ff; font-size: 20px; font-family: monospace; }
+              .quote { fill: #ffffff; font-size: 18px; font-family: monospace; }
+            </style>
+            <rect width="100%" height="100%" fill="#0d1117" rx="15"/>
+            <text x="20" y="35" class="title">
+              Day ${{ steps.quote.outputs.day }} of Building 🚀
+            </text>
+            <text x="20" y="70" class="quote">
+              "${{ steps.quote.outputs.quote }}"
+              <animate attributeName="opacity" values="0;1" dur="2s" fill="freeze" />
+            </text>
+          </svg>
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add dynamic-quote.svg
+          git commit -m "🔄 Update AI Daily Quote" || echo "No changes"
+          git push
