@@ -5,9 +5,9 @@
 <h3 align="center">💬 Daily Developer Thought</h3>
 
 <p align="center">
-  <!--QUOTE_START-->
-  Loading daily wisdom...
-  <!--QUOTE_END-->
+<!--QUOTE_START-->
+          Full Stack is not a skill. It's a mindset.
+          <!--QUOTE_END-->
 </p>
 <!-- PROFILE BANNER -->
 
