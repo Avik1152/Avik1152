@@ -2,6 +2,13 @@
 
 <h2 align="side">   Hi  👋! I'm Avik🚀 <br>⚡ Code. Create. Conquer.
 </h2>
+<h3 align="center">💬 Daily Developer Thought</h3>
+
+<p align="center">
+  <!--QUOTE_START-->
+  Loading daily wisdom...
+  <!--QUOTE_END-->
+</p>
 <!-- PROFILE BANNER -->
 
 <div align="center">
