@@ -2,9 +2,9 @@
 
 <!-- <h2 align="side">   Hi  👋! I'm Avik🚀 <br>⚡ Code. Create. Conquer.
 </h2> -->
-<h3 align="center">Hi  👋! I'm Avik🚀</h3>
+<h3 align="side">Hi  👋! I'm Avik🚀</h3>
 
-<p align="center">
+<p align="side">
   <img src="https://raw.githubusercontent.com/Avik1152/Avik1152/main/neural-thought.svg" />
 </p>
 <!-- PROFILE BANNER -->
