@@ -1,9 +1,9 @@
-<svg width="900" height="170" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
     <!-- Neon Glow -->
     <filter id="glow">
-      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -12,36 +12,36 @@
 
     <!-- Typing Reveal Mask -->
     <mask id="reveal">
-      <rect x="0" y="0" width="0" height="200" fill="white">
+      <rect x="0" y="0" width="0" height="120" fill="white">
         <animate attributeName="width"
                  from="0"
-                 to="900"
+                 to="600"
                  dur="4s"
                  fill="freeze" />
       </rect>
     </mask>
   </defs>
 
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="#0a0f1c" rx="20"/>
+  <!-- Black Background (No Border) -->
+  <rect width="100%" height="100%" fill="#000000"/>
 
   <!-- Title -->
-  <text x="40" y="45"
+  <text x="30" y="45"
         font-family="monospace"
         font-size="22"
         fill="#00f7ff"
         filter="url(#glow)">
-    ⚡ Neural Thought Stream
+    Hi! 👋 I'm Avik
   </text>
 
-  <!-- Fixed Quote -->
-  <text x="40" y="105"
+  <!-- Quote -->
+  <text x="30" y="85"
         font-family="monospace"
-        font-size="20"
+        font-size="18"
         fill="#39ff14"
         filter="url(#glow)"
         mask="url(#reveal)">
-    "AI doesn't replace developers. It upgrades them."
+    Learning faster than yesterday’s version of me.
   </text>
 
 </svg>
