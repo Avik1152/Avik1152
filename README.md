@@ -12,6 +12,7 @@
 <div align="center">
   <p align="center">
   <img src="https://streak-stats.demolab.com?user=Avik1152&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150"  />
+    <img width="50"/>
     <img src="https://github.com/Avik1152.png" width="150" style="border-radius:50%;" />
     </p>
  <p align="center">
