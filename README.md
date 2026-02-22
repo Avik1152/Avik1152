@@ -12,6 +12,7 @@
 <div align="center">
   <p align="center">
   <img src="https://streak-stats.demolab.com?user=Avik1152&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150"  />
+    <img src="https://github.com/Avik1152.png" width="150" style="border-radius:50%;" />
     </p>
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=1000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1500&lines=🕒+Current+TimeZone+/+Location:+(IST)+Kolkata..." />
