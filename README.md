@@ -18,7 +18,7 @@
 ">
 
 <!-- HERO SECTION -->
-<h1 align="center" style="color:39ff14; font-weight:700;">Hello World!, Hi 👋 I'm Avik 🚀</h1>
+<h1 align="center" style="color:39ff14; font-weight:700;">👋 Hi, I’m Avik🚀</h1>
 <p align="center">
   <strong style="font-size:40px;">
     🚀 Learning faster than yesterday's version of me.
