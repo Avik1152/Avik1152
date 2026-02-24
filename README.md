@@ -32,7 +32,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Avik1152&theme=dark&hide_border=true" height="150"/>
   <img width="40"/>
-  <img src="https://github.com/Avik1152.png" width="150" style="border-radius:50%; border:3px solid #00f7ff;"/>
+  <img src="https://github.com/Avik1152.png" width="150" />
 </p>
 
 <br>
