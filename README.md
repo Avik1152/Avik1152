@@ -31,7 +31,7 @@
 <!-- PROFILE + STATS -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Avik1152&theme=dark&hide_border=true" height="150"/>
-  <img width="120"/>
+  <img width="50"/>
   <img src="https://github.com/Avik1152.png" width="150" />
 </p>
 
