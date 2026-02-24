@@ -93,7 +93,7 @@ Passionate about AI integration and building future-ready digital solutions.
   <a href="https://www.linkedin.com/in/avikmondal-afution/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-4d4dff?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:avik.devafution2000@gmail.com">
+  <a href="avik.devafution2000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-809fff?style=for-the-badge&logo=gmail&logoColor=darkblue"/>
   </a>
 
