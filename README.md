@@ -31,7 +31,7 @@
 <!-- PROFILE + STATS -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Avik1152&theme=dark&hide_border=true" height="150"/>
-  <img width="40"/>
+  <img width="120"/>
   <img src="https://github.com/Avik1152.png" width="150" />
 </p>
 
@@ -65,13 +65,24 @@ Passionate about AI integration and building future-ready digital solutions.
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
   <img width="15"/>
-  <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
   <img width="15"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35"/>
+  <!--<img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35"/>-->
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="35"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35"/>
 </p>
-
 <br>
 
 <!-- CONTACT -->
@@ -82,7 +93,7 @@ Passionate about AI integration and building future-ready digital solutions.
   <a href="https://www.linkedin.com/in/avikmondal-afution/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-4d4dff?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:avik1152@gmail.com">
+  <a href="mailto:avik.devafution2000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-809fff?style=for-the-badge&logo=gmail&logoColor=darkblue"/>
   </a>
 
@@ -96,7 +107,7 @@ Passionate about AI integration and building future-ready digital solutions.
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avik1152&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avik1152&theme=react-dark&hide_border=true&area=true&title=Avik%27s%20Contribution%20Graph" />
 </p>
 
 </div>
