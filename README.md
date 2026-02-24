@@ -1,15 +1,30 @@
+<div align="center">
+
 <div style="
-  background-color:#0d1117;
+  width:100vw;
+  margin-left:calc(-50vw + 50%);
+  background-color:#000000;
+  padding:60px 20px;
+">
+
+<div style="
+  max-width:1100px;
+  margin:auto;
+  background-color:#000000;
   padding:40px;
-  border-radius:15px;
+  border-radius:20px;
   border:2px solid #00f7ff;
-  box-shadow: 0 0 15px #00f7ff, 0 0 30px #00f7ff33;
+  box-shadow: 0 0 25px #00f7ff44;
 ">
 
 <!-- HERO SECTION -->
+<h1 align="center" style="color:39ff14; font-weight:700;">Hi 👋 I'm Avik 🚀</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Avik1152/Avik1152/main/neural-thought.svg" />
+  <strong style="font-size:40px;">
+    🚀 Learning faster than yesterday's version of me.
+  </strong>
 </p>
+
 
 <br>
 
@@ -83,4 +98,6 @@ Passionate about AI integration and building future-ready digital solutions.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avik1152&theme=react-dark&hide_border=true&area=true" />
 </p>
 
+</div>
+</div>
 </div>
