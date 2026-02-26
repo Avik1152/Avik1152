@@ -85,6 +85,15 @@ Passionate about AI integration and building future-ready digital solutions.
 </p>
 <br>
 
+<h3>🌐 Explore My Tech Stack</h3>
+
+| Technology | Documentation |
+|------------|--------------|
+| JavaScript | [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| React | [Official Docs](https://react.dev/) |
+| Node.js | [Node Docs](https://nodejs.org/en/docs/) |
+| MongoDB | [MongoDB Docs](https://www.mongodb.com/docs/) |
+
 <!-- CONTACT -->
 <h3 style="color:#00f7ff;">📬 Connect With Me</h3>
 
