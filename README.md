@@ -53,8 +53,8 @@ Passionate about AI integration and building future-ready digital solutions.
 <!-- LOCATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=1000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1500&lines=🕒+Current+TimeZone+/+Location:+(IST)+Kolkata..." />
-  <img src="https://img.shields.io/badge/📍%20Location-Kolkata,%20India-0d1117?style=for-the-badge&labelColor=6666ff&color=111111"/>
-  <img src="https://img.shields.io/badge/🕒%20Timezone-Asia/Kolkata-0d1117?style=for-the-badge&labelColor=ff00ff&color=111111"/>
+  <!-- <img src="https://img.shields.io/badge/📍%20Location-Kolkata,%20India-0d1117?style=for-the-badge&labelColor=6666ff&color=111111"/>
+  <img src="https://img.shields.io/badge/🕒%20Timezone-Asia/Kolkata-0d1117?style=for-the-badge&labelColor=ff00ff&color=111111"/> -->
 </p>
 
 <br>
