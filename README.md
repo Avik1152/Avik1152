@@ -84,7 +84,6 @@ Passionate about AI integration and building future-ready digital solutions.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35"/>
 </p>
 <br>
-
 <h3>🌐 Explore My Tech Stack</h3>
 
 | Technology | Documentation |
@@ -93,6 +92,7 @@ Passionate about AI integration and building future-ready digital solutions.
 | React | [Official Docs](https://react.dev/) |
 | Node.js | [Node Docs](https://nodejs.org/en/docs/) |
 | MongoDB | [MongoDB Docs](https://www.mongodb.com/docs/) |
+| Express.js | [Express Docs](https://expressjs.com/) |
 
 <!-- CONTACT -->
 <h3 style="color:#00f7ff;">📬 Connect With Me</h3>
