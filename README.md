@@ -93,7 +93,7 @@ Passionate about AI integration and building future-ready digital solutions.
   <a href="https://www.linkedin.com/in/avikmondal-afution/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-4d4dff?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=avik.devafution2000@gmail.com&su=Hiring%20Inquiry%20for%20Full%20Stack%20Role&body=Hello%20Avik,%0A%0AI%20reviewed%20your%20GitHub%20profile%20and%20was%20impressed%20with%20your%20work.%20I%20would%20like%20to%20discuss%20a%20Full%20Stack%20Developer%20opportunity%20with%20you.%0A%0APlease%20share%20your%20availability.%0A%0ARegards," target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=avik.devafution2000@gmail.com&su=Hiring%20Inquiry%20for%20Full%20Stack%20Role&body=Hello%20Avik,%0A%0AI%20reviewed%20your%20GitHub%20profile%20and%20was%20impressed%20with%20your%20work.%0A%0AI%20see%20you%20are%20currently%20working%20as%20an%20Intern%20at%20DAS%20Solutions,%20strengthening%20your%20expertise%20in%20JavaScript%20and%20building%20scalable%20applications%20using%20the%20MERN%20stack.%0A%0AI%20would%20like%20to%20discuss%20a%20Full%20Stack%20Developer%20opportunity%20with%20you.%0A%0APlease%20share%20your%20availability.%0A%0AI%20will%20also%20review%20your%20LinkedIn%20profile:%20https://www.linkedin.com/in/avikmondal-afution%0A%0ARegards," target="_blank">
   <img src="https://img.shields.io/badge/Contact%20via%20Gmail-000099?style=for-the-badge&logo=gmail&logoColor=DarkGreen"/>
 </a>
 
