@@ -27,7 +27,7 @@
     🚀 Learning faster than yesterday's version of me.
   </strong>
 </p>
-<br>
+
 <div align="left">
 
 <div style="display:inline-block; text-align:left;">
