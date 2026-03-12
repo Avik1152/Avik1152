@@ -18,8 +18,11 @@
 ">
 
 <!-- HERO SECTION -->
-<h1 align="center" style="color:39ff14; font-weight:700;">👋 Hi, I’m Avik🚀</h1>
-<p align="center">
+<h3 align="center" style="color:39ff14; font-weight:1000;">
+  <strong style="font-size:100px;">
+    👋 Hi, I’m Avik🚀
+  </strong></h3>
+<p align="left">
   <strong style="font-size:40px;">
     🚀 Learning faster than yesterday's version of me.
   </strong>
@@ -29,7 +32,7 @@
 
 <div style="display:inline-block; text-align:left;">
 
-<h3>Every developer's daily work looks like this:</h3>
+<h4>Every developer's daily work looks like this:</h4>
 
 1. Something doesn't work ❌  
 2. You feel confused 😯  
