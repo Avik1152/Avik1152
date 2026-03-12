@@ -64,7 +64,7 @@
 
 ### Hi 👨‍💻 Who Am I? 
 👋 I'm Avik.
-I’m a passionate developer from Kolkata, India who enjoys building modern web applications and understanding how JavaScript works under the hood.
+I’m a passionate developer from India who enjoys building modern web applications and understanding how JavaScript works under the hood.
 
 Currently focusing on:
 • Deep JavaScript concepts (Execution Context, Closures, Async JS)  
