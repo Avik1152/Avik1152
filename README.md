@@ -24,8 +24,21 @@
     🚀 Learning faster than yesterday's version of me.
   </strong>
 </p>
+<br>
+<div align="left">
 
+<div style="display:inline-block; text-align:left;">
 
+<h3>Every developer's daily work looks like this:</h3>
+
+1. Something doesn't work ❌  
+2. You feel confused 😯  
+3. You ask questions / research 🔍  
+4. You understand the concept ✅  
+
+</div>
+
+</div>
 <br>
 
 <!-- PROFILE + STATS -->
