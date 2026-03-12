@@ -56,14 +56,28 @@
 
 
 <!-- INTRO SECTION -->
-<h2 align="center" style="color:#00f7ff;">🚀 Full Stack Developer | MERN Specialist</h2>
+<h3 align="center" style="color:#00f7ff;">🚀 Full Stack Developer | MERN Specialist</h3>
+<br>
+<div align="left">
 
-<p align="center" style="color:#c9d1d9; font-size:16px; max-width:700px; margin:auto;">
-I design and build scalable web applications using modern technologies.
-Focused on clean architecture, performance optimization, and intelligent systems.
-Passionate about AI integration and building future-ready digital solutions.
-</p>
+<div style="display:inline-block; text-align:left;">
 
+<h4>Hi 👋 I'm Avik</h4>
+
+I’m a passionate developer from Kolkata, India who enjoys building modern web applications and understanding how JavaScript works under the hood.
+
+Currently focusing on:
+• Deep JavaScript concepts (Execution Context, Closures, Async JS)  
+• Full Stack Development with the MERN Stack  
+• Writing clean, scalable, and maintainable code  
+
+I believe in improving every day and learning faster than yesterday’s version of myself.
+
+My goal is to grow into a strong software engineer who builds impactful digital products.
+
+</div>
+
+</div>
 <br>
 
 <!-- LOCATION -->
@@ -73,7 +87,7 @@ Passionate about AI integration and building future-ready digital solutions.
   <img src="https://img.shields.io/badge/🕒%20Timezone-Asia/Kolkata-0d1117?style=for-the-badge&labelColor=ff00ff&color=111111"/> -->
 </p>
 
-<br>
+
 
 <!-- TECH STACK -->
 <h3 style="color:#00f7ff;">🛠 Tech Stack</h3>
