@@ -62,8 +62,8 @@
 
 <div style="display:inline-block; text-align:left;">
 
-<h4>Hi 👋 I'm Avik</h4>
-
+### Hi 👨‍💻 Who Am I? 
+👋 I'm Avik.
 I’m a passionate developer from Kolkata, India who enjoys building modern web applications and understanding how JavaScript works under the hood.
 
 Currently focusing on:
