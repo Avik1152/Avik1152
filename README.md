@@ -23,18 +23,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f2027,50:203a43,100:2c5364&text=Avik%20Mondal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Dev%20•%20MERN%20Stack%20•%20JavaScript%20Learner&descAlignY=50&descSize=15"/>
 
 </div>
-<div align="left">
 
-<div style="display:inline-block; text-align:left;">
-
-<h4>Every developer's daily work looks like this:</h4>
-
-1. Something doesn't work ❌  
-2. You feel confused 😯  
-3. You ask questions / research 🔍  
-4. You understand the concept ✅  
-
-</div>
 
 </div>
 <br>
@@ -48,7 +37,10 @@
 
 <br>
 
-
+<!-- LOCATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=1000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1500&lines=🕒+Current+TimeZone+/+Location:+(IST)+Kolkata..." />
+  </p>
 
 <!-- INTRO SECTION -->
 <br>
@@ -69,12 +61,7 @@ I believe in improving every day and learning faster than yesterday’s version 
 </div>
 <br>
 
-<!-- LOCATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=1000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1500&lines=🕒+Current+TimeZone+/+Location:+(IST)+Kolkata..." />
-  <!-- <img src="https://img.shields.io/badge/📍%20Location-Kolkata,%20India-0d1117?style=for-the-badge&labelColor=6666ff&color=111111"/>
-  <img src="https://img.shields.io/badge/🕒%20Timezone-Asia/Kolkata-0d1117?style=for-the-badge&labelColor=ff00ff&color=111111"/> -->
-</p>
+
 
 
 
