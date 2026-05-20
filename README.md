@@ -43,7 +43,7 @@
 
 <!-- LOCATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=1000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1500&lines=🕒+Current+TimeZone+/+Location:+(IST)+Kolkata..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=1000&pause=1000&color=0000ff&center=true&vCenter=true&width=1500&lines=🕒+Current+TimeZone+/+Location:+(IST)+Kolkata..." />
   </p>
 
 <!-- INTRO SECTION -->
