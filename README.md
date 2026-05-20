@@ -27,7 +27,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1200&color=ca1cca&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;MERN+Stack+Developer;JavaScript+Learner;Future+Software+Engineer" 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1200&color=ca1cca&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;MERN+Stack+Developer;JavaScript+Learner;Intern+@+DAS+Solution;Future+Software+Engineer" 
   />
 </p>
 
