@@ -30,6 +30,13 @@
     src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1200&color=ca1cca&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;MERN+Stack+Developer;JavaScript+Learner;Future+Software+Engineer" 
   />
 </p>
+
+<!-- CONTACT -->
+
+<p align="center">
+<a href="https://x.com/" target="_blank"><img src="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=white"/></a><a href="https://www.linkedin.com/in/avikmondal-afution/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a><a href="https://github.com/Avik1152" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white"/></a><a href="mailto:avik.devafution2000@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
+</p>
+
 <br>
 
 <!-- PROFILE + STATS -->
@@ -107,17 +114,6 @@ I believe in improving every day and learning faster than yesterday’s version 
 | MongoDB | [MongoDB Docs](https://www.mongodb.com/docs/) |
 | Express.js | [Express Docs](https://expressjs.com/) |
 
-<!-- CONTACT -->
-<h3 style="color:#00f7ff;">📬 Connect With Me</h3>
-
-
-
-  <a href="https://www.linkedin.com/in/avikmondal-afution/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4d4dff?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=avik.devafution2000@gmail.com&su=Hiring%20Inquiry%20for%20Full%20Stack%20Role&body=Hello%20Avik,%0A%0AI%20reviewed%20your%20GitHub%20profile%20and%20was%20impressed%20with%20your%20work.%0A%0AI%20see%20you%20are%20currently%20working%20as%20an%20Intern%20at%20DAS%20Solutions,%20strengthening%20your%20expertise%20in%20JavaScript%20and%20building%20scalable%20applications%20using%20the%20MERN%20stack.%0A%0AI%20would%20like%20to%20discuss%20a%20Full%20Stack%20Developer%20opportunity%20with%20you.%0A%0APlease%20share%20your%20availability.%0A%0AI%20can%20also%20view%20your%20LinkedIn%20profile:%0Ahttps://www.linkedin.com/in/avikmondal-afution%0A%0ARegards," target="_blank">
-  <img src="https://img.shields.io/badge/Contact%20via%20Gmail-000099?style=for-the-badge&logo=gmail&logoColor=DarkGreen"/>
-</a>
 
 <br>
 
