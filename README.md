@@ -51,24 +51,18 @@
 
 
 <!-- INTRO SECTION -->
-<h3 align="center" style="color:#00f7ff;">🚀 Full Stack Developer | MERN Specialist</h3>
 <br>
 <div align="left">
 
 <div style="display:inline-block; text-align:left;">
 
-### Hi 👨‍💻 Who Am I? 
-👋 I'm Avik.
+### About
+
 I’m a passionate developer from India who enjoys building modern web applications and understanding how JavaScript works under the hood.
 
-Currently focusing on:
-• Deep JavaScript concepts (Execution Context, Closures, Async JS)  
-• Full Stack Development with the MERN Stack  
-• Writing clean, scalable, and maintainable code  
+Currently focusing on: Deep JavaScript concepts (Execution Context, Closures, Async JS) , Full Stack Development with the MERN Stack , Writing clean, scalable, and maintainable code. 
 
-I believe in improving every day and learning faster than yesterday’s version of myself.
-
-My goal is to grow into a strong software engineer who builds impactful digital products.
+I believe in improving every day and learning faster than yesterday’s version of myself. My goal is to grow into a strong software engineer who builds impactful digital products.
 
 </div>
 
