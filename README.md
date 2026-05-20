@@ -139,10 +139,15 @@ My goal is to grow into a strong software engineer who builds impactful digital 
 </p>
 
 <!-- ACTIVITY GRAPH -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avik1152&theme=react-dark&hide_border=true&area=true&title=Avik%27s%20Contribution%20Graph" />
-</p>
+</p> -->
 
 </div>
 </div>
+</div>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+
 </div>
