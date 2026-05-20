@@ -97,13 +97,13 @@ I believe in improving every day and learning faster than yesterday’s version 
 </p>
 
 <br>
-<h3>🌐 Explore My Tech Stack</h3>
+<h3>Learning Resources</h3>
 
 | Technology | Documentation |
 |------------|--------------|
-| JavaScript | [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-| React | [Official Docs](https://react.dev/) |
-| Node.js | [Node Docs](https://nodejs.org/en/docs/) |
+| JavaScript | [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) , [JavaScript.info](https://javascript.info/) , [Namaste JavaScript](https://namaste-javascript.vercel.app/)|
+| React | [React Docs](https://react.dev/learn) |
+| Node.js | [Node Docs](https://nodejs.org/docs/latest/api/) |
 | MongoDB | [MongoDB Docs](https://www.mongodb.com/docs/) |
 | Express.js | [Express Docs](https://expressjs.com/) |
 
