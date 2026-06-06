@@ -56,14 +56,16 @@
 
 <!-- INTRO SECTION -->
 <br>
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,100:CA1CCA"/>
-</p>
+<p align="left">
 <div align="left">
 <div style="display:inline-block; text-align:left;">
 
 ### 👨‍💻About
-
+<p align="left">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=00F7FF&center=false&vCenter=false&width=1200&height=50&lines=Passionate+developer+from+India.;Building+modern+web+applications.;Exploring+JavaScript+under+the+hood.;Focused+on+MERN+Stack+development.;Writing+clean+and+maintainable+code.;Learning+faster+than+yesterday's+version+of+me."
+  />
+</p>
 I’m a passionate developer from India who enjoys building modern web applications and understanding how JavaScript works under the hood.
 
 Currently focusing on: Deep JavaScript concepts (Execution Context, Closures, Async JS) , Full Stack Development with the MERN Stack , Writing clean, scalable, and maintainable code. 
@@ -72,10 +74,9 @@ I believe in improving every day and learning faster than yesterday’s version 
 </div>
 </div>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:CA1CCA,100:00F7FF"/>
 </p>
 <br>
+
 
 <!-- TECH STACK -->
 <h3>Tech Stack</h3>
