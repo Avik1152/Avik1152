@@ -53,28 +53,29 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=1000&pause=1000&color=0000ff&center=true&vCenter=true&width=1500&lines=🕒+Current+TimeZone+/+Location:+(IST)+Kolkata..." />
   </p>
 
+
 <!-- INTRO SECTION -->
 <br>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,100:CA1CCA"/>
+</p>
 <div align="left">
-
 <div style="display:inline-block; text-align:left;">
 
-### About
+### 👨‍💻About
 
 I’m a passionate developer from India who enjoys building modern web applications and understanding how JavaScript works under the hood.
 
 Currently focusing on: Deep JavaScript concepts (Execution Context, Closures, Async JS) , Full Stack Development with the MERN Stack , Writing clean, scalable, and maintainable code. 
 
 I believe in improving every day and learning faster than yesterday’s version of myself. My goal is to grow into a strong software engineer who builds impactful digital products.
-
+</div>
 </div>
 
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:CA1CCA,100:00F7FF"/>
+</p>
 <br>
-
-
-
-
 
 <!-- TECH STACK -->
 <h3>Tech Stack</h3>
