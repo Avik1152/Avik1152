@@ -20,7 +20,7 @@
 <!-- HERO SECTION -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f2027,50:203a43,100:2c5364&text=Avik%20Mondal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Dev%20•%20MERN%20Stack%20•%20JavaScript%20Learner&descAlignY=50&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f2027,50:203a43,100:2c5364&text=Avik%20Mondal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Dev%20•%20MERN%20Stack%20•%20JavaScript&descAlignY=50&descSize=15"/>
 
 </div>
 
