@@ -125,9 +125,9 @@ I believe in improving every day and learning faster than yesterday’s version 
 </p>
 
 <!-- ACTIVITY GRAPH -->
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avik1152&theme=react-dark&hide_border=true&area=true&title=Avik%27s%20Contribution%20Graph" />
-</p> -->
+</p>
 
 </div>
 </div>
