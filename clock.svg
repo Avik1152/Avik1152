@@ -27,9 +27,9 @@
 
   <rect width="100%" height="100%" class="bg" rx="20"/>
   <text x="50%" y="55" text-anchor="middle" class="time">
-    23:50:39
+    01:43:07
   </text>
   <text x="50%" y="90" text-anchor="middle" class="date">
-    09 Jul 2026 | Asia/Kolkata
+    10 Jul 2026 | Asia/Kolkata
   </text>
 </svg>
