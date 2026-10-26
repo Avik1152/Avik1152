@@ -20,14 +20,14 @@
 <!-- HERO SECTION -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f2027,50:203a43,100:2c5364&text=Avik%20Mondal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Dev%20•%20MERN%20Stack%20•%20JavaScript&descAlignY=50&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f2027,50:203a43,100:2c5364&text=AVIK%20MONDAL&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Dev%20•%20MERN%20Stack%20•%20JavaScript&descAlignY=50&descSize=15"/>
 
 </div>
 
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1200&color=ca1cca&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;MERN+Stack+Developer;JavaScript+Learner;Intern+@+DAS+Solution;Future+Software+Engineer" 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1200&color=ca1cca&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;MERN+Stack+Developer;Intern+@+DAS+Solution;Computer+Science+and+Technology+Engineer" 
   />
 </p>
 
@@ -111,7 +111,7 @@ I believe in improving every day and learning faster than yesterday’s version 
 | Technology | Documentation |
 |------------|--------------|
 | JavaScript | [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) , [JavaScript.info](https://javascript.info/) , [Namaste JavaScript](https://namaste-javascript.vercel.app/)|
-| React | [React Docs](https://react.dev/learn) |
+| React | [React Docs](https://react.dev/learn) , [freecodecamp](https://www.freecodecamp.org/news/react-for-beginners-handbook/)|
 | Node.js | [Node Docs](https://nodejs.org/docs/latest/api/) |
 | MongoDB | [MongoDB Docs](https://www.mongodb.com/docs/) |
 | Express.js | [Express Docs](https://expressjs.com/) |
@@ -127,7 +127,7 @@ I believe in improving every day and learning faster than yesterday’s version 
 <!-- ACTIVITY GRAPH -->
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avik1152&theme=react-dark&hide_border=true&area=true&title=Avik%27s%20Contribution%20Graph" />
-</p> -->
+</p>  -->
 
 </div>
 </div>
